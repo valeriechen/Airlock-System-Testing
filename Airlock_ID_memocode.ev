@@ -1,0 +1,116 @@
+mInCmd OpenInDoor
+mChCmd ToOutPres
+mInCmd CloseInDoor
+mOutCmd OpenOutDoor
+mOutCmd CloseOutDoor
+mChCmd ToInPres
+mInCmd OpenInDoor
+RESET
+mInCmd OpenInDoor
+mChCmd ToOutPres
+mInCmd CloseInDoor
+mOutCmd OpenOutDoor
+mOutCmd CloseOutDoor
+mInCmd OpenInDoor
+mChCmd ToInPres
+RESET
+mInCmd OpenInDoor
+mChCmd ToOutPres
+mInCmd CloseInDoor
+mOutCmd OpenOutDoor
+mChCmd ToInPres
+mInCmd OpenInDoor
+mOutCmd CloseOutDoor
+RESET
+mInCmd OpenInDoor
+mChCmd ToOutPres
+mInCmd CloseInDoor
+mOutCmd OpenOutDoor
+mInCmd OpenInDoor
+mChCmd ToInPres
+mOutCmd CloseOutDoor
+RESET
+mChCmd ToOutPres
+mInCmd OpenInDoor
+mOutCmd OpenOutDoor
+mChCmd ToInPres
+mOutCmd CloseOutDoor
+mOutCmd OpenOutDoor
+mChCmd ToOutPres
+mInCmd CloseInDoor
+RESET
+mChCmd ToOutPres
+mInCmd OpenInDoor
+mOutCmd OpenOutDoor
+mChCmd ToInPres
+mOutCmd CloseOutDoor
+mOutCmd OpenOutDoor
+mInCmd CloseInDoor
+mChCmd ToOutPres
+RESET
+mChCmd ToOutPres
+mInCmd OpenInDoor
+mOutCmd OpenOutDoor
+mChCmd ToInPres
+mOutCmd CloseOutDoor
+mChCmd ToOutPres
+mInCmd CloseInDoor
+mOutCmd OpenOutDoor
+RESET
+mChCmd ToOutPres
+mInCmd OpenInDoor
+mOutCmd OpenOutDoor
+mChCmd ToInPres
+mOutCmd CloseOutDoor
+mInCmd CloseInDoor
+mChCmd ToOutPres
+mOutCmd OpenOutDoor
+RESET
+mChCmd ToOutPres
+mInCmd OpenInDoor
+mOutCmd OpenOutDoor
+mOutCmd CloseOutDoor
+mChCmd ToInPres
+mInCmd CloseInDoor
+RESET
+mChCmd ToOutPres
+mInCmd OpenInDoor
+mOutCmd OpenOutDoor
+mOutCmd CloseOutDoor
+mInCmd CloseInDoor
+mChCmd ToInPres
+RESET
+mChCmd ToOutPres
+mInCmd OpenInDoor
+mOutCmd OpenOutDoor
+mChCmd ToInPres
+mInCmd CloseInDoor
+mOutCmd CloseOutDoor
+RESET
+mChCmd ToOutPres
+mInCmd OpenInDoor
+mOutCmd OpenOutDoor
+mInCmd CloseInDoor
+mChCmd ToInPres
+mOutCmd CloseOutDoor
+RESET
+mInCmd OpenInDoor
+mOutCmd OpenOutDoor
+mChCmd ToOutPres
+mInCmd CloseInDoor
+RESET
+mInCmd OpenInDoor
+mOutCmd OpenOutDoor
+mInCmd CloseInDoor
+mChCmd ToOutPres
+RESET
+mInCmd OpenInDoor
+mChCmd ToOutPres
+mInCmd CloseInDoor
+mOutCmd OpenOutDoor
+RESET
+mInCmd OpenInDoor
+mInCmd CloseInDoor
+mChCmd ToOutPres
+mOutCmd OpenOutDoor
+RESET

@@ -1,0 +1,24 @@
+mOutCmd OpenOutDoor
+mChCmd ToOutPres
+mOutCmd CloseOutDoor
+mChCmd ToInPres
+mInCmd OpenInDoor
+RESET
+mOutCmd OpenOutDoor
+mChCmd ToOutPres
+mOutCmd CloseOutDoor
+mInCmd OpenInDoor
+mChCmd ToInPres
+RESET
+mOutCmd OpenOutDoor
+mChCmd ToOutPres
+mChCmd ToInPres
+mInCmd OpenInDoor
+mOutCmd CloseOutDoor
+RESET
+mOutCmd OpenOutDoor
+mChCmd ToOutPres
+mInCmd OpenInDoor
+mChCmd ToInPres
+mOutCmd CloseOutDoor
+RESET

@@ -1,0 +1,54 @@
+--- Initial State  --------------------------------------
+mInCmd = CloseInDoor                    cOutDoor = closed
+mOutCmd = CloseOutDoor                  cChPres = InPres
+mChCmd = ToInPres                       cInDoor = closed
+--- State 1 -----------------------------------------------
+mChCmd = ToOutPres                      cChPres = OutPres
+--- State 2 -----------------------------------------------
+mOutCmd = OpenOutDoor                   cOutDoor = open
+--- State 3 -----------------------------------------------
+mInCmd = OpenInDoor                     
+--- State 4 -----------------------------------------------
+mChCmd = ToInPres                       
+--- Initial State  --------------------------------------
+mInCmd = CloseInDoor                    cOutDoor = closed
+mOutCmd = CloseOutDoor                  cChPres = InPres
+--- Initial State  ----------------------------------------- State 1 -----------------------------------------------
+mInCmd = OpenInDoor                     cInDoor = open
+--- State 2 -----------------------------------------------
+mChCmd = ToOutPres                      
+--- Initial State  --------------------------------------
+mInCmd = CloseInDoor                    cInDoor = closed
+mChCmd = ToInPres                       
+--- Initial State  ----------------------------------------- State 1 -----------------------------------------------
+mOutCmd = OpenOutDoor                   
+--- State 2 -----------------------------------------------
+mChCmd = ToOutPres                      cChPres = OutPres
+--- Initial State  --------------------------------------
+mOutCmd = CloseOutDoor                  cChPres = InPres
+mChCmd = ToInPres                       
+--- Initial State  ----------------------------------------- State 1 -----------------------------------------------
+mInCmd = OpenInDoor                     cInDoor = open
+--- State 2 -----------------------------------------------
+mChCmd = ToOutPres                      
+--- Initial State  --------------------------------------
+mInCmd = CloseInDoor                    cInDoor = closed
+mChCmd = ToInPres                       
+--- Initial State  ----------------------------------------- State 1 -----------------------------------------------
+mOutCmd = OpenOutDoor                   
+--- State 2 -----------------------------------------------
+mInCmd = OpenInDoor                     cInDoor = open
+--- Initial State  --------------------------------------
+mInCmd = CloseInDoor                    cInDoor = closed
+mOutCmd = CloseOutDoor                  
+--- Initial State  ----------------------------------------- State 1 -----------------------------------------------
+mOutCmd = OpenOutDoor                   
+--- State 2 -----------------------------------------------
+mInCmd = OpenInDoor                     cInDoor = open
+--- State 3 -----------------------------------------------
+mChCmd = ToOutPres                      
+--- Initial State  --------------------------------------
+mInCmd = CloseInDoor                    cInDoor = closed
+mOutCmd = CloseOutDoor                  
+mChCmd = ToInPres                       
+--- Initial State  --------------------------------------
